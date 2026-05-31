@@ -1,0 +1,1 @@
+<?php $host = "db5019109920.hosting-data.io"; $database = "dbs15021998"; $user = "dbu3611087"; $password = "ArjoProject2025"; $conn = mysqli_connect( $host, $user, $password, $database ); if(!$conn){ die("Connection Failed: " . mysqli_connect_error()); } ?>
